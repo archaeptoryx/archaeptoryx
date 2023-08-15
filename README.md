@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @archaeptoryx
 - 👀 loves science
-- 🌱 I’m a Biotechnologist
-
+- 🌱  Biotechnologist
+explore nature
 
 <!---
 archaeptoryx/archaeptoryx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
